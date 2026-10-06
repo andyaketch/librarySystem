@@ -1,0 +1,9 @@
+#newBooks{
+    background-color: rgb(127, 178, 255);
+    border-radius: 1rem;
+    text-align: center;
+
+}
+#newBooks h2 {
+    font-size: large;
+}
