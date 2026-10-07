@@ -2,8 +2,16 @@
     background-color: rgb(127, 178, 255);
     border-radius: 1rem;
     text-align: center;
+    padding: 3rem,3rem;
+
 
 }
 #newBooks h2 {
-    font-size: large;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#bookImages{
+    grid-column:(repeat ; 1fr,1fr
 }
